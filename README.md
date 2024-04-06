@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Im Angela a great web developer who was once a geospatial specialist .
+
+
 <!--
 **teyvi/teyvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
