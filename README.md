@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Im Angela a great web developer who was once a geospatial specialist .
 
 
 <!--
